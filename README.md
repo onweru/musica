@@ -1,7 +1,4 @@
 
-
-# an iPhone Xylophone App
-
 ## Stuff we've done
 - How to play sound using AVFoundation and AVAudioPlayer.
 - How to use tags in Interface Builder.
